@@ -1,1 +1,0 @@
-# obidov-chat-rules
