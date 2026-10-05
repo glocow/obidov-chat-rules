@@ -3,10 +3,10 @@
 Сетка [@ownerussion](https://t.me/ownerussion) состоит из трех чатов:
 - [Гамма](https://t.me/gruppaup)
 - [Эпсилон](https://t.me/grupaon)
+- [Питер](https://t.me/gruppamq)
 
 Сетка [@swwyllxx](https://t.me/swwyllxx) состоит из одного чата:
 - [Мск](https://t.me/grupavv)
-- [Питер](https://t.me/gruppamq)
 
 ## Основы основ
 1. Админы должны проявлять базовое уважение друг к другу.
