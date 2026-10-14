@@ -1,8 +1,8 @@
 # Правила для админов чатов сетки [@ownerussion](https://t.me/ownerussion) и [@swwyllxx](https://t.me/swwyllxx)
 
 Сетка [@ownerussion](https://t.me/ownerussion) состоит из трех чатов:
-- [Гамма](https://t.me/gruppaup)
 - [Эпсилон](https://t.me/grupaon)
+- [Гамма](https://t.me/gruppaup)
 - [Питер](https://t.me/gruppamq)
 
 Сетка [@swwyllxx](https://t.me/swwyllxx) состоит из одного чата:
